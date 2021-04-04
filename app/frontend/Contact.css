@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 135px;
+  min-height: 146px;
 }
 
 .u-section-1 .u-text-1 {
@@ -8,7 +8,7 @@
   font-family: "Bigshot One";
   font-size: 3rem;
   text-shadow: 0px 1px 0px rgba(255,255,255,1);
-  margin: 9px 425px 0 0;
+  margin: 9px 570px 0 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -19,34 +19,38 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-right: 232px;
+    margin-right: 373px;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-right: 470px;
-    margin-left: 14px;
+    margin-right: 387px;
+    margin-bottom: 25px;
+    margin-left: 7px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-text-1 {
-    margin-right: 12px;
+    margin-right: 153px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-left: 0;
-    margin-right: 264px;
+    margin-right: 164px;
+    margin-left: 11px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-text-1 {
-    margin-right: 0;
+    margin-right: 109px;
+    font-size: 2.25rem;
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 84px;
+    margin-right: -9px;
+    margin-bottom: 41px;
+    margin-left: 7px;
   }
 }
 
@@ -56,23 +60,22 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 1.375rem;
-    margin-left: -25px;
-    margin-right: -25px;
+    font-size: 1.75rem;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 0.875rem;
-    margin-right: -9px;
-    margin-bottom: 9px;
-    margin-left: 9px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 27px;
   }
 }.u-section-2 {
   background-image: none;
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 332px;
+  min-height: 287px;
 }
 
 .u-section-2 .u-text-1 {
@@ -81,7 +84,7 @@
   font-family: "Bigshot One";
   font-size: 3rem;
   text-shadow: 0px 1px 0px rgba(255,255,255,1);
-  margin: 16px 527px 0 0;
+  margin: 0 662px 0 0;
 }
 
 .u-section-2 .u-text-2 {
@@ -89,133 +92,173 @@
   margin: 0 382px 0 16px;
 }
 
+.u-section-2 .u-layout-wrap-1 {
+  width: 519px;
+  min-height: 118px;
+  margin: 16px auto 16px 0;
+}
+
 .u-section-2 .u-image-1 {
-  width: 151px;
-  height: 151px;
-  margin: 20px auto 0 206px;
+  min-height: 118px;
+  background-image: url("images/discord-logo-png-7617.png");
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 30px 10px;
 }
 
 .u-section-2 .u-image-2 {
-  width: 141px;
-  height: 141px;
-  margin: -146px auto 0 429px;
+  min-height: 118px;
+  background-image: url("images/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png");
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 18px 30px 27px;
 }
 
 .u-section-2 .u-image-3 {
-  width: 156px;
-  height: 156px;
-  margin: -153px auto 22px 0;
+  min-height: 118px;
+  background-image: url("images/twitter-logo-300x300.png");
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 30px 0;
 }
 
 @media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 279px;
+  }
+
   .u-section-2 .u-text-1 {
     width: auto;
-    margin-top: 0;
-    margin-right: 336px;
+    margin-top: 7px;
+    margin-right: 464px;
   }
 
   .u-section-2 .u-text-2 {
     width: auto;
-    margin-right: 183px;
-    margin-left: 15px;
+    margin-right: 158px;
+    margin-left: 7px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 453px;
+    margin-bottom: 26px;
   }
 
   .u-section-2 .u-image-1 {
-    margin-left: 210px;
+    background-position: 50% 50%;
   }
 
   .u-section-2 .u-image-2 {
-    margin-left: 393px;
+    background-position: 50% 50%;
   }
 
   .u-section-2 .u-image-3 {
-    margin: -148px 210px 33px auto;
+    background-position: 50% 50%;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 312px;
+    min-height: 304px;
   }
 
   .u-section-2 .u-text-1 {
-    margin-right: 79px;
-    margin-left: -27px;
+    margin-right: 243px;
   }
 
   .u-section-2 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-2 .u-image-1 {
-    margin-left: 100px;
-  }
-
-  .u-section-2 .u-image-2 {
-    margin-left: 283px;
-  }
-
-  .u-section-2 .u-image-3 {
-    margin-bottom: 15px;
-    margin-left: 464px;
+    margin-right: -17px;
+    margin-left: 17px;
   }
 }
 
 @media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 516px;
+  }
+
   .u-section-2 .u-text-1 {
-    margin-left: 0;
-    margin-right: 0;
+    margin-right: 183px;
+    font-size: 2.25rem;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: -7px;
+    margin-left: 7px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 270px;
+    margin-bottom: 36px;
+    min-height: 826px;
   }
 
   .u-section-2 .u-image-1 {
-    margin-left: 101px;
+    min-height: 104px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   .u-section-2 .u-image-2 {
-    margin-left: 284px;
+    min-height: 103px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   .u-section-2 .u-image-3 {
-    margin-top: 20px;
-    margin-bottom: 33px;
-    margin-left: 284px;
+    min-height: 104px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 259px;
+    min-height: 402px;
   }
 
   .u-section-2 .u-text-1 {
-    font-size: 1.375rem;
-    margin-right: 48px;
+    font-size: 1.75rem;
+    margin-top: 9px;
+    margin-left: 23px;
+    margin-right: 23px;
   }
 
   .u-section-2 .u-text-2 {
     font-size: 0.875rem;
-    margin-right: -12px;
-    margin-left: 12px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 111px;
+    margin-top: 17px;
+    margin-left: auto;
+    margin-bottom: 9px;
+    min-height: 460px;
   }
 
   .u-section-2 .u-image-1 {
-    width: 86px;
-    height: 86px;
-    margin-top: 15px;
-    margin-left: 133px;
+    min-height: 83px;
   }
 
   .u-section-2 .u-image-2 {
-    width: 78px;
-    height: 78px;
-    margin-top: -82px;
-    margin-left: 240px;
+    min-height: 78px;
   }
 
   .u-section-2 .u-image-3 {
-    width: 91px;
-    height: 91px;
-    margin: -84px 184px 16px 22px;
+    min-height: 83px;
   }
 }
